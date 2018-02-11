@@ -32,6 +32,7 @@ ext {
     buildToolsVersion = '27.0.0'
 
     // App dependencies
+    kotlinVersion = '1.2.21'
     supportLibraryVersion = '27.0.2'
     guavaVersion = '18.0'
     junitVersion = '4.12'
